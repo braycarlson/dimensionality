@@ -1,0 +1,20 @@
+-e .
+
+bioinfokit
+ipywidgets
+jupyterlab
+kaleido==0.1.0post1
+manim
+matplotlib
+natsort
+numpy
+opencv-python
+pandas
+pillow
+plotly
+scienceplots
+scikit-learn
+seaborn
+sympy
+typing-extensions
+umap-learn

@@ -1,0 +1,29 @@
+{
+    "figure": {
+        "figsize": [
+            8,
+            8
+        ]
+    },
+    "legend": {
+        "borderaxespad": 0,
+        "bbox_to_anchor": [
+            1.15,
+            1.00
+        ]
+    },
+    "line": {
+        "marker": "o",
+        "rasterized": false
+    },
+    "scatter": {
+        "alpha": 0.50,
+        "label": null,
+        "rasterized": false,
+        "s": 25
+    },
+    "dataset": "dataset",
+    "method": "algorithm",
+    "palette": "tab20",
+    "title": "Dimensionality Reduction"
+}
