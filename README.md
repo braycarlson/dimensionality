@@ -4,7 +4,7 @@ An exploration into dimensionality reduction using PCA, ICA, tSNE and UMAP for N
 
 ## Presentation
 
-[![pca](asset/video.png?raw=true "Presentation")](https://www.youtube.com/watch?v=VygaBfZnQgk)
+<video src='asset/video.mp4' width=540/>
 
 ## Prerequisites
 
