@@ -1,6 +1,6 @@
 ## Dimensionality Reduction
 
-An exploration into dimensionality reduction using PCA, ICA, tSNE and UMAP for NEUR 4700: Advanced Applications of Computational Methods. I also give a presentation on PCA, and used the [Manim](https://www.manim.community/) package created by [3Blue1Brown](https://www.youtube.com/@3blue1brown) to illustrate the ideas behind dimensionality reduction.
+An exploration into dimensionality reduction using PCA, ICA, tSNE and UMAP for NEUR 4700: Advanced Applications of Computational Methods. I also give a presentation on PCA, and used the [Manim](https://www.manim.community/) package created by [3Blue1Brown](https://www.youtube.com/@3blue1brown) to illustrate the ideas behind PCA.
 
 ## Presentation
 
